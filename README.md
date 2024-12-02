@@ -8,8 +8,6 @@ This repository (in it's `README.md`) is a collection of wisdom, in text, that a
 
 > You become what you pay attention to.
 
-> Do not carry a victim mentality, that gives power to those you claim oppress you.
-
 > Do not try to change the world. Change yourself instead.
 
 > Be kind to the younger generation. They're who will be running the world when you're too old to get out of bed.
