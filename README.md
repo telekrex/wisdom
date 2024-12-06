@@ -10,6 +10,8 @@ This repository (in it's `README.md`) is a collection of wisdom, in text, that a
 
 > Do not try to change the world. Change yourself instead.
 
+> Ask before giving someone advice.
+
 > Be kind to the younger generation. They're who will be running the world when you're too old to get out of bed.
 
 > Smile.
